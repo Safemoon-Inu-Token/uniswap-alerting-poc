@@ -1,4 +1,5 @@
 # Proof of Concept: Uniswap New Pair Alerting Script
+Get alerts in your terminal when a new Uniswap pair is created! Or anywhere else! It's JavaScript!
 
 ## Requirements
 You need have nodejs installed on your machine.
