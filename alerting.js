@@ -16,7 +16,8 @@ const query = `
         name
       },
       token0Price,
-      token1Price
+      token1Price,
+      reserveUSD
     }
 }`;
 const refreshFrequencySeconds = 5000;
